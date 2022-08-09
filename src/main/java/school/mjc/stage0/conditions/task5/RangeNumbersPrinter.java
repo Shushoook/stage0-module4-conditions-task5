@@ -5,6 +5,7 @@ public class RangeNumbersPrinter {
         switch (number){
             default:
                 System.out.println("out of range");
+                break;
             case (1):
             case (2):
             case (3):
